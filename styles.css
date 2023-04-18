@@ -1,0 +1,21 @@
+body {
+    margin:0;
+    padding:0;
+    background-color: unset;
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+
+html {
+    scroll-behavior: smooth;
+    zoom: 100%;
+}
+
+#navweblogo { 
+    height:10px;
+    width:50px;
+}
+
+#navt {
+    font-family: Verdana, sans-serif;
+}
